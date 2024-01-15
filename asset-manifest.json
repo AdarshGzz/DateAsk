@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DateAsk/static/css/main.44439b3c.css",
+    "main.js": "/DateAsk/static/js/main.210c489c.js",
+    "static/media/please.gif": "/DateAsk/static/media/please.6b2a01180b54c741acea.gif",
+    "static/media/comming.gif": "/DateAsk/static/media/comming.009f24bad78872cf9884.gif",
+    "index.html": "/DateAsk/index.html",
+    "main.44439b3c.css.map": "/DateAsk/static/css/main.44439b3c.css.map",
+    "main.210c489c.js.map": "/DateAsk/static/js/main.210c489c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44439b3c.css",
+    "static/js/main.210c489c.js"
+  ]
+}
